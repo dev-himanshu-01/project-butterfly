@@ -1,0 +1,20 @@
+.navbar-main {
+  box-shadow: 0 5px 4px 0 rgba(0, 0, 0, 0.2);
+  background-color: #000;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.125);
+}
+
+.navbar-main ul {
+  list-style-type: none;
+  overflow: hidden;
+  color: #fff;
+  font-size: 1.2em;
+  font-weight: 500;
+  text-align: left;
+  padding: 0.75em;
+  cursor: default;
+}
+
+.navbar-main ul li{
+    
+}
